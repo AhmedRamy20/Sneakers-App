@@ -25,3 +25,28 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   Payment Test    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// import 'package:flutter/material.dart';
+// import 'package:provider/provider.dart';
+// import 'package:sneakers_app/model/cart_model.dart';
+// import 'package:sneakers_app/pages/intro_page.dart';
+// import 'package:sneakers_app/features/checkout/presentation/views/my_cart_view.dart';
+
+// void main() {
+//   runApp(
+//     const MyApp(),
+//   );
+// }
+
+// class MyApp extends StatelessWidget {
+//   const MyApp({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return MaterialApp(
+//       debugShowCheckedModeBanner: false,
+//       home: const MyCartView(),
+//     );
+//   }
+// }
